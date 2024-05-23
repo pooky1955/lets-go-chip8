@@ -1,5 +1,6 @@
 # lets-go-chip8
 Implementing the Chip8 Interpreter in Golang, rendered in the terminal
+
 Here's a demo below:
 [![asciicast](https://asciinema.org/a/x7FrZRHnGfmG0hgYqtPKYacdn.svg)](https://asciinema.org/a/x7FrZRHnGfmG0hgYqtPKYacdn)
 
